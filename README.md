@@ -17,7 +17,6 @@
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Results Summary](#results-summary)
 - [Contributing](#contributing)
 - [License](#license)
 - [Disclaimer](#disclaimer)
@@ -174,9 +173,9 @@ correlations = correlation_analyzer.calculate_cross_correlations()
 
 ## Contributing
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/analysis-improvement`)
-3. Commit your changes (`git commit -am 'Add new analysis feature'`)
-4. Push to the branch (`git push origin feature/analysis-improvement`)
+2. Create a feature branch (`git checkout -b {path}`)
+3. Commit your changes (`git commit -am "{messages}"`)
+4. Push to the branch (`git push -u origin {branch}`)
 5. Create a Pull Request
 
 ## License
