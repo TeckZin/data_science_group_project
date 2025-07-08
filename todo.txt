@@ -1,0 +1,23 @@
+-- TODO
+
+1) somehow fetch the data from kaggle and read into numpy
+3) find hedge fund data
+4) pick a stats to track (profit, stock price, etc..)
+5) plot the data on graph
+
+
+
+6) maybe come up with a good mutal fund.
+
+if no hedge fund data -> compare difference index funds or mutual funds or ETFs.
+
+Index fund
+S&P 500
+NASDAQ 100 (NVDA, ORCL, META, GOOG, APPL, etc.. )
+
+ETFs
+SPY 500
+Invesco QQQ
+
+
+
