@@ -1,0 +1,18 @@
+{
+  "name": "stock-market-analysis",
+  "version": "1.0.0",
+  "description": "NASDAQ stock market analysis focusing on tariff impacts, market correlations, and hedge fund performance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TeckZin/data_science_group_project"
+  },
+  "keywords": [
+    "stock-market",
+    "nasdaq",
+    "finance",
+    "data-analysis",
+    "python"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
